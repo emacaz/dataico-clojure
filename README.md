@@ -76,21 +76,22 @@ Here's the directory structure of the challenge repository:
 
 css
 ```
-.clojure
+.
 ├── README.md
 ├── dataico.iml
 ├── deps.edn
 ├── resources
-│   ├── invoice.edn
-│   ├── invoice.json
-│   └── invoice_spec.clj
+│   ├── invoice.edn
+│   └── invoice.json
 └── src
     ├── clojure_challenge
-    │   ├── problem1.clj
-    │   ├── problem2.clj
-    │   └── problem3.clj
-    ├── invoice_item.clj
+    │   ├── invoice_item.clj
+    │   ├── invoice_spec.clj
+    │   ├── problem1.clj
+    │   ├── problem2.clj
+    │   └── problem3.clj
     └── main.clj
+
 ```
 You will find the problem descriptions, sample code, and data files in their respective locations within this structure.
 
