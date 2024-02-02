@@ -1,0 +1,19 @@
+# IntelliJ IDEA files
+.idea/
+dataico.iml
+
+# Compiled files and directories
+/target/
+
+# Dependency folders
+.cpcache/
+
+# Temporary files
+*.log
+*.jar
+
+# User-specific settings files
+.lein-failures
+
+# macOS folder attributes
+.DS_Store
